@@ -43,3 +43,6 @@ This is a FREE course and you can [enrol here](https://courses.yaksas.in/p/immun
 
     - Familiarity with Assembly Language (good to have)
     - Understanding of x86 CPU architecture (registers, flags, stack etc.)
+
+
+Note: This website is not associated or owned by Immunity Inc. Immunity Debugger logo is a copyright of Immunity Inc. and is used here for representational purposes only.
