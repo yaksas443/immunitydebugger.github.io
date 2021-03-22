@@ -19,7 +19,7 @@ A good understanding of Immunity Debugger comes in handy while exploit developme
 
 Since other debuggers like Ollydbg (Olly debug), evans debug etc. have a similar interface, through this course you can learn how to use them as well. I have created this course with the vision that it becomes your go to reference guide for Immunity Debugger and other similar debuggers. 
 
-This is a FREE course and you can ![enrol here](https://courses.yaksas.in/p/immunity-debugger-for-exploit-devs-ycsc-lab-essentials).
+This is a FREE course and you can [enrol here](https://courses.yaksas.in/p/immunity-debugger-for-exploit-devs-ycsc-lab-essentials).
 
 ### Who this course is for:
 
