@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Companion website for our course Immunity Debugger for Exploit Devs"
+description: "Companion website for the course Immunity Debugger for Exploit Devs by Yaksas CSC"
 permalink: /
 ---
 ## Immunity Debugger for Exploit Devs
