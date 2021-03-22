@@ -16,3 +16,5 @@ This course covers both, well-known and lesser-known, features of Immunity Debug
 A good understanding of Immunity Debugger comes in handy while exploit development, backdooring PE files, encoding files for anti-virus evasion. Once you have completed this course, you will be a lot more comfortable with Immunity Debugger and you'll know which features to use to perform each of the previously mentioned activities.
 
 Since other debuggers like Ollydbg (Olly debug), evans debug etc. have a similar interface, through this course you can learn how to use them as well. I have created this course with the vision that it becomes your go to reference guide for Immunity Debugger and other similar debuggers. 
+
+This is a FREE course and you can !(enrol here)[https://courses.yaksas.in/p/immunity-debugger-for-exploit-devs-ycsc-lab-essentials].
