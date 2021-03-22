@@ -7,11 +7,11 @@ permalink: /
 ---
 ## Immunity Debugger for Exploit Devs
 
-Immunity Debugger is the go to debugger for most security professionals. Immunity Inc describes it as a powerful new way to write exploits, analyze malware, and reverse engineer binary files. It builds on a solid user interface with function graphing, the industry's first heap analysis tool built specifically for heap creation, and a large and well supported Python API for easy extensibility.
+Immunity Debugger is powerful when it comes to writing exploits, analyzing malware and reverse engineering binary files. It is the debugger of choice for most security professionals. It has arich user interface with function graphing and a heap analysis tool built specifically for heap creation. It shipd with Python API for easy extensibility.
 
 ![](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/G7bRuIJZSoqdJFnrPRHQ)
 
-This course covers both, well-known and lesser-known, features of Immunity Debugger. Few of the key topics discussed in this course are as follows:
+This course covers Immunity Debugger in and out. You will learn both, well-known and lesser-known, features. A few topics taught in this course are as follows:
 
     Download and Installation
     Views
@@ -22,9 +22,9 @@ This course covers both, well-known and lesser-known, features of Immunity Debug
     Just-in-time debugging
     ... and a lot more
 
-A good understanding of Immunity Debugger comes in handy while exploit development, backdooring PE files, encoding files for anti-virus evasion. Once you have completed this course, you will be a lot more comfortable with Immunity Debugger and you'll know which features to use to perform each of the previously mentioned activities.
+Immunity Debugger is extremly useful while creating exploits, backdooring PE files, encoding binaries to evade anti-malware software. Therefore, a good understanding of this tool is must for security professionals, specially for people studying for security certifications from Offensive Security (OSCP, OSCE, OSED etc.), eLearnSecurity (ePTP, ePTX etc.) and various other organizations.
 
-Since other debuggers like Ollydbg (Olly debug), evans debug etc. have a similar interface, through this course you can learn how to use them as well. I have created this course with the vision that it becomes your go to reference guide for Immunity Debugger and other similar debuggers. 
+I have created this course with the vision that it becomes your go to reference guide for Immunity Debugger and other similar debuggers (Ollydbg, Evans debugger etc). 
 
 This is a FREE course and you can [enrol here](https://courses.yaksas.in/p/immunity-debugger-for-exploit-devs-ycsc-lab-essentials).
 
