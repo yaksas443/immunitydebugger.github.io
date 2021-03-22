@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Companion website for our course Immunity Debugger for Exploit Devs"
+permalink: /
+---
 ## Immunity Debugger for Exploit Devs
 
 Immunity Debugger is the go to debugger for most security professionals. Immunity Inc describes it as a powerful new way to write exploits, analyze malware, and reverse engineer binary files. It builds on a solid user interface with function graphing, the industry's first heap analysis tool built specifically for heap creation, and a large and well supported Python API for easy extensibility.
