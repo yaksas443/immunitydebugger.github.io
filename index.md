@@ -20,3 +20,26 @@ A good understanding of Immunity Debugger comes in handy while exploit developme
 Since other debuggers like Ollydbg (Olly debug), evans debug etc. have a similar interface, through this course you can learn how to use them as well. I have created this course with the vision that it becomes your go to reference guide for Immunity Debugger and other similar debuggers. 
 
 This is a FREE course and you can ![enrol here](https://courses.yaksas.in/p/immunity-debugger-for-exploit-devs-ycsc-lab-essentials).
+
+### Who this course is for:
+
+    - Cyber security professionals
+    - Reverse Engineers
+    - Beginners in Exploit Development
+    - Security Researchers / Engineers/ Analysts
+
+### What you'll learn
+
+    - Basics of Immunity Debugger
+    - Get familiar with various Views / Windows
+    - Stack operations available in Immunity Debugger
+    - Disassembler operations available in Immunity Debugger
+    - Get started with PyCommands & Mona Library
+    - Just-in-time debugging with Immunity Debugger
+    - How to set breakpoints, step through and trace
+    - Immunity Debugger command line
+
+### Requirements
+
+    - Familiarity with Assembly Language (good to have)
+    - Understanding of x86 CPU architecture (registers, flags, stack etc.)
