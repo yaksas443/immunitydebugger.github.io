@@ -1,37 +1,18 @@
 ## Immunity Debugger for Exploit Devs
 
-You can use the [editor on GitHub](https://github.com/yaksas443/immunitydebugger.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Immunity Debugger is the go to debugger for most security professionals. Immunity Inc describes it as a powerful new way to write exploits, analyze malware, and reverse engineer binary files. It builds on a solid user interface with function graphing, the industry's first heap analysis tool built specifically for heap creation, and a large and well supported Python API for easy extensibility.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This course covers both, well-known and lesser-known, features of Immunity Debugger. Few of the key topics discussed in this course are as follows:
 
-### Markdown
+    Download and Installation
+    Views
+    Stack Operations
+    Disassembler Operations
+    Breakpoints, stepping through, tracing etc.
+    PyCommands and Mona Library
+    Just-in-time debugging
+    ... and a lot more
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A good understanding of Immunity Debugger comes in handy while exploit development, backdooring PE files, encoding files for anti-virus evasion. Once you have completed this course, you will be a lot more comfortable with Immunity Debugger and you'll know which features to use to perform each of the previously mentioned activities.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaksas443/immunitydebugger.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Since other debuggers like Ollydbg (Olly debug), evans debug etc. have a similar interface, through this course you can learn how to use them as well. I have created this course with the vision that it becomes your go to reference guide for Immunity Debugger and other similar debuggers. 
