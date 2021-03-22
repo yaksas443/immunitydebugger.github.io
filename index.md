@@ -7,7 +7,7 @@ permalink: /
 ---
 ## Immunity Debugger for Exploit Devs
 
-Immunity Debugger is powerful when it comes to writing exploits, analyzing malware and reverse engineering binary files. It is the debugger of choice for most security professionals. It has arich user interface with function graphing and a heap analysis tool built specifically for heap creation. It shipd with Python API for easy extensibility.
+Immunity Debugger is powerful when it comes to writing exploits, analyzing malware and reverse engineering binary files. It is the debugger of choice for most security professionals. It has a rich user interface with function graphing and a heap analysis tool built specifically for heap creation. It is shipped with Python API for easy extensibility.
 
 ![](https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/G7bRuIJZSoqdJFnrPRHQ)
 
