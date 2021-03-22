@@ -1,4 +1,4 @@
-## Welcome Immunity Debugger for Exploit Devs - YCSC Lab Essentials Course by Yaksas CSC
+## Immunity Debugger for Exploit Devs
 
 You can use the [editor on GitHub](https://github.com/yaksas443/immunitydebugger.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
