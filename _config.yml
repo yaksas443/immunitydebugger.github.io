@@ -15,7 +15,7 @@ remote_theme: pmarsceill/just-the-docs
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Learn Immunity Debugger
-description: Companion website for our course on Immunity Debugger
+tagline: Companion website for our course on Immunity Debugger
 #baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
 url: "https://immunitydebugger.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -113,6 +113,12 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+
+social:
+  name: Yaksas CSC
+  links:
+    - https://twitter.com/yaksas443
+    
 
 compress_html:
   clippings: all
